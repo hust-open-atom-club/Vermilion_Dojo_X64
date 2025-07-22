@@ -11,13 +11,13 @@ comparator: 2000
 
 modules:
   - id: buffer-overflow
-    icon: Jolteon
+    icon: 0135_Jolteon
 
   - id: integer-overflow
-    icon: Ninetales
+    icon: 0038_Ninetales
 
   - id: other-vulnerabilities
-    icon: Paras
+    icon: 0046_Paras
   
   - id: use-after-free
-    icon: Diglett
+    icon: 0050_Diglett
